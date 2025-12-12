@@ -29,14 +29,14 @@
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396? style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26? style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6? style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB? style=for-the-badge&logo=react&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
@@ -59,7 +59,7 @@
 ### 🎓 [LMS Redesign](https://github.com/Chanuka999/LMS_redesign)
 > **Figma Design Project** - Group Collaboration
 > 
-> Redesigned Learning Management System interface focusing on user experience and modern design principles. 
+> Redesigned Learning Management System interface focusing on user experience and modern design principles.  
 > 
 > **Tech Stack:** `Figma` `UI/UX Design` `Collaborative Design`
 
@@ -80,7 +80,7 @@
 ### 👨‍👩‍👧‍👦 Family Members Manager
 > **Data Management Application**
 > 
-> Application for organizing and managing family information efficiently.
+> Application for organizing and managing family information efficiently. 
 > 
 > **Tech Stack:** `Python` `Database Management`
 
@@ -134,17 +134,7 @@
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/? user=Dhawanharan&theme=radical&hide_border=true&border_radius=10)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dhawanharan&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp. com/? user=Dhawanharan&theme=radical&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
@@ -154,7 +144,7 @@
 
 <div align="center">
 
-[![Dhawanharan's github activity graph](https://github-readme-activity-graph.vercel. app/graph?username=Dhawanharan&theme=react-dark&hide_border=true&area=true)](https://github.com/Dhawanharan)
+[![Dhawanharan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhawanharan&theme=react-dark&hide_border=true&area=true)](https://github.com/Dhawanharan)
 
 </div>
 
@@ -162,23 +152,12 @@
 
 ## 🎯 Current Focus
 
-```python
-class Dhawanharan:
-    def __init__(self):
-        self.name = "Dhawanharan Mahalingam"
-        self.role = "Computer Science Student"
-        self.university = "Eastern University, Sri Lanka"
-        self.year = "Final Year"
-        self.currently_learning = ["Artificial Intelligence", "Machine Learning", "Networking"]
-        self. interests = ["Software Development", "Web Development", "AI/ML", "Competitive Programming"]
-        self.looking_for = ["Internship Opportunities", "Collaborations", "Open Source Projects"]
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's connect and build something amazing together!")
-
-me = Dhawanharan()
-me.say_hi()
-```
+- 🤖 Deep diving into **Artificial Intelligence & Machine Learning**
+- 🌐 Mastering **Computer Networking** concepts
+- 💼 Seeking **Internship Opportunities** in Software Development
+- 🤝 Open to **Collaborations** on innovative projects
+- 🌟 Contributing to **Open Source Projects**
+- 📚 Strengthening **Data Structures & Algorithms** skills
 
 ---
 
@@ -196,30 +175,10 @@ me.say_hi()
 
 <div align="center">
   
-### 💭 Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-<div align="center">
-  
-### 👁️ Profile Views
-
-![Visitor Count](https://profile-counter.glitch.me/Dhawanharan/count.svg)
-
-</div>
-
----
-
-<div align="center">
-  
 **⚡ "First, solve the problem. Then, write the code." – John Johnson**
 
 ### ⭐️ From [Dhawanharan](https://github.com/Dhawanharan)
 
-*Feel free to explore my repositories and don't forget to star ⭐ the ones you find interesting!*
+*Feel free to explore my repositories and don't forget to star ⭐ the ones you find interesting! *
 
 </div>

@@ -35,8 +35,8 @@
 
 ### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6? style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB? style=for-the-badge&logo=react&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
@@ -125,16 +125,10 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dhawanharan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhawanharan&layout=compact&langs_count=8&theme=radical&border_radius=10&hide_border=true"/>
-
-</div>
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp. com/? user=Dhawanharan&theme=radical&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Dhawanharan&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -175,7 +169,7 @@
 
 <div align="center">
   
-**⚡ "First, solve the problem. Then, write the code." – John Johnson**
+**⚡ "Wear your failure as a badge of honor." – Sundar Pichai**
 
 ### ⭐️ From [Dhawanharan](https://github.com/Dhawanharan)
 

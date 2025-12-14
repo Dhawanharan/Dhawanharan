@@ -70,19 +70,19 @@
 > 
 > **Tech Stack:** `Python` `Tkinter` `GUI Development`
 
-### ⏰ Countdown Clock
+### ⏰ [Countdown Clock](https://github.com/Dhawanharan/countdown_clock)
 > **Interactive Web Application**
 > 
 > Built a dynamic countdown timer with clean UI and responsive design. 
 > 
 > **Tech Stack:** `HTML` `CSS` `JavaScript`
 
-### 👨‍👩‍👧‍👦 Family Members Manager
+### 👨‍👩‍👧‍👦 [Family Members Manager](https://github.com/Dhawanharan/Family_Details)
 > **Data Management Application**
 > 
 > Application for organizing and managing family information efficiently. 
 > 
-> **Tech Stack:** `Python` `Database Management`
+> **Tech Stack:** `PHP` `Database Management`
 
 ---
 
@@ -139,6 +139,15 @@
 <div align="center">
 
 [![Dhawanharan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhawanharan&theme=react-dark&hide_border=true&area=true)](https://github.com/Dhawanharan)
+
+</div>
+
+---
+## 📊 Most Used Languages
+
+<div align="left">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhawanharan&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 

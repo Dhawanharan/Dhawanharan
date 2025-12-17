@@ -56,6 +56,20 @@
 
 ## 🚀 Featured Projects
 
+### ⏰ [Chess Clock](https://github.com/Dhawanharan/countdown_clock)
+> **A modern, touch-friendly chess clock application**
+> 
+> features a settings screen to select time controls and a full-screen timer interface for two players. 
+> 
+> **Tech Stack:** `React Native` `TypeScript` `NodeJS`
+
+### 🎨 [Whiteboard](https://github.com/Dhawanharan/Whiteboard)
+> **Interactive Digital Whiteboard Application**
+> 
+> A feature-rich digital whiteboard for drawing, sketching, and brainstorming.  Perfect for online learning and creative work.
+> 
+> **Tech Stack:** `Python` `Tkinter` `GUI Development`
+
 ### 🎓 [LMS Redesign](https://github.com/Chanuka999/LMS_redesign)
 > **Figma Design Project** - Group Collaboration
 > 
@@ -75,7 +89,7 @@
 > 
 > Built a dynamic countdown timer with clean UI and responsive design. 
 > 
-> **Tech Stack:** `HTML` `CSS` `JavaScript`
+> **Tech Stack:** `Python` `Tkinter` `GUI Development`
 
 ### 👨‍👩‍👧‍👦 [Family Members Manager](https://github.com/Dhawanharan/Family_Details)
 > **Data Management Application**

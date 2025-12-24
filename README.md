@@ -161,7 +161,7 @@
 
 <div align="left">
   
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dhawanharan&theme=radical&hide_border=true&layout=compact&langs_count=8)](https://github.com/Dhawanharan)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhawanharan&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 

@@ -113,6 +113,9 @@
 
 ## 📜 Certifications
 
+### 🧑‍💻 Artificial Intelligence
+- **AI Fundementals** - Cisco & IBM SkillBuild
+  
 ### 🌐 Networking & IT
 - **IT Essentials** - Cisco
 
@@ -159,9 +162,9 @@
 ---
 ## 📊 Most Used Languages
 
-<div align="left">
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhawanharan&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+
+![Top Langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Dhawanharan&theme=radical&hide_border=true&layout=compact)
 
 </div>
 

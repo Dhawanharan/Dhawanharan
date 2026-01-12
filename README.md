@@ -63,6 +63,13 @@
 > 
 > **Tech Stack:** `React Native` `TypeScript` `NodeJS`
 
+### 🔐 [Cryptography-Utility-System](https://github.com/Dhawanharan/Cryptography-Utility-System)
+> **Advanced Encryption & Security Tool**
+> 
+> A comprehensive cryptography utility system built with Java, implementing industry-standard encryption algorithms and custom ciphers.  Designed for secure data encryption, decryption, and cryptographic operations with an intuitive interface.
+> 
+> **Tech Stack:** `Java` `Cryptography` `Security Algorithms` `CLI`
+
 ### 🎨 [Whiteboard](https://github.com/Dhawanharan/Whiteboard)
 > **Interactive Digital Whiteboard Application**
 > 

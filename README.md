@@ -20,6 +20,7 @@
 - 🔬 Currently diving deep into **Artificial Intelligence & Machine Learning** and **Networking**
 - 💡 Passionate about **Software Development**, **Web Technologies**, and **Problem Solving**
 - 🏆 **Finalist** at **Yarl Geek Challenge 2025** by Yarl IT Hub
+- 🏆 **Semi-Finalist** at **SLIoT Challenge 2026** by University of Moratuwa | SLT Mobitel
 - 🎯 Active participant in tech competitions and hackathons
 - 🌱 Always learning, always building, always improving
 
@@ -111,8 +112,9 @@
 
 <div align="left">
 
-🥈 **Finalist** - **Yarl Geek Challenge 2025** | Organized by Yarl IT Hub  
-🎯 **Participant** - **CRE8X Competition** | Organized by KDU (Kotelawala Defence University)
+- 🥈 **Finalist** - **Yarl Geek Challenge 2025** | Organized by Yarl IT Hub
+- 🥈 **Semi-Finalist** - **SLIot Challenge 2026** | Organized by University of Moratuwa & SLT Mobitel
+- 🎯 **Participant** - **CRE8X Competition** | Organized by KDU (Kotelawala Defence University)
 
 </div>
 

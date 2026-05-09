@@ -57,6 +57,12 @@
 
 ## 🚀 Featured Projects
 
+### 📚 [221B Archives (Sherlock Holmes Reading Tracker)](https://github.com/Dhawanharan/sherlock_holmes_website)
+
+> **A premium MERN app for reading and tracking all Sherlock Holmes stories — featuring automated PDF ingestion, distraction-free reading, and real-time progress sync.**
+>
+> **Tech Stack:** `React`, `Node.js`, `Express`, `MongoDB`
+
 ### ⏰ [Chess Clock](https://github.com/Dhawanharan/countdown_clock)
 > **A modern, touch-friendly chess clock application**
 > 

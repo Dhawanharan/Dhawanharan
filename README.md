@@ -46,7 +46,7 @@ I'm a final-year **BSc Computer Science** student at the **Trincomalee Campus, E
 
 ### Tools & Design
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,sqlite,vscode,eclipse&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,sqlite&theme=dark" />
   &nbsp;<img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
 
@@ -110,19 +110,26 @@ A data management application for organizing and managing family information eff
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dhawanharan&theme=radical&hide_border=true)](https://git.io/streak-stats)
+<!-- Streak — the fire icon and ring are SVG-animated and render on GitHub -->
+<img src="https://streak-stats.demolab.com?user=Dhawanharan&theme=radical&hide_border=true&fire=DD4C19&ring=B44FD8&currStreakLabel=B44FD8" alt="GitHub Streak" />
 
 </div>
 
+<br/>
+
+<!-- Top Languages replaced with a reliable skillicons.dev logo grid -->
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhawanharan&theme=radical&hide_border=true&layout=compact&cache_seconds=86400" alt="Top Languages" />
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dhawanharan&theme=radical" alt="Top Languages" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dhawanharan&theme=radical" alt="Most Used Languages" />
 </div>
 
+<br/>
+
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhawanharan&theme=react-dark&hide_border=true&area=true)](https://github.com/Dhawanharan)
+<!-- Activity graph — line animates via embedded SVG CSS on GitHub -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhawanharan&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
 
 </div>
 
